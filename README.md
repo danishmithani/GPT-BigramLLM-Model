@@ -5,3 +5,5 @@ Dataset used: wizard_of_oz.txt  - for Bigram model
 
 OpenWebText.py helps data preprocessing, helping to create vocabulory and single large trainable file + validation file.
 (dataset Not included due to size constraints.)
+
+The code is flooded with comments from across different sources for ese of understanding of each line and its essence.
